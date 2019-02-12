@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "tmf:aluminium_ore"
+  },
+  "result": "tmf:aluminium_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

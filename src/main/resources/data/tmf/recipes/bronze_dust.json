@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "tmf:copper_dust"
+    },
+    {
+      "item": "tmf:copper_dust"
+    },
+    {
+      "item": "tmf:tin_dust"
+    }
+  ],
+  "result": {
+    "item": "tmf:bronze_dust",
+    "count": 3
+  }
+}

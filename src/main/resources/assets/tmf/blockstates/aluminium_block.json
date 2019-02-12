@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tmf:block/aluminium_block"
+    }
+  }
+}

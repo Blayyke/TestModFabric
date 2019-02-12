@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shapeless",
+  "group": "steel_dust",
+  "ingredients": [
+    {
+      "item": "tmf:iron_dust"
+    },
+    {
+      "item": "coal"
+    },
+    {
+      "item": "coal"
+    }
+  ],
+  "result": {
+    "item": "tmf:steel_dust",
+    "count": 3
+  }
+}

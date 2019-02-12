@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "tmf:copper_ore"
+  },
+  "result": "tmf:copper_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

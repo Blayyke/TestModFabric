@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "tin_block",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "tmf:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "tmf:tin_block",
+    "count": 1
+  }
+}

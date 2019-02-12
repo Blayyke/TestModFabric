@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "tmf:aluminium_block",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "tmf:aluminium_ingot"
+    }
+  },
+  "result": {
+    "item": "tmf:aluminium_block",
+    "count": 1
+  }
+}

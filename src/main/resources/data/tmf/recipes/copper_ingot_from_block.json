@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "tmf:copper_block"
+    }
+  ],
+  "result": {
+    "item": "tmf:copper_ingot",
+    "count": 9
+  }
+}

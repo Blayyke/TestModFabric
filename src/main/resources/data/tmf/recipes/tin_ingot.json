@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "tmf:tin_ore"
+  },
+  "result": "tmf:tin_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}

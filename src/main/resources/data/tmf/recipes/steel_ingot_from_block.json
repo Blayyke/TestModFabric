@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "steel_ingot",
+  "ingredients": [
+    {
+      "item": "tmf:steel_block"
+    }
+  ],
+  "result": {
+    "item": "tmf:steel_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "aluminium_ingot",
+  "ingredients": [
+    {
+      "item": "tmf:aluminium_block"
+    }
+  ],
+  "result": {
+    "item": "tmf:aluminium_ingot",
+    "count": 9
+  }
+}

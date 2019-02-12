@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "tmf:copper_block",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "tmf:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "tmf:copper_block",
+    "count": 1
+  }
+}

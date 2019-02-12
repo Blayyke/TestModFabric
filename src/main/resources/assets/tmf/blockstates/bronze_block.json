@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tmf:block/bronze_block"
+    }
+  }
+}

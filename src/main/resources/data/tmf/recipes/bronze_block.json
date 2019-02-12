@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "tmf:bronze_block",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "tmf:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "tmf:bronze_block",
+    "count": 1
+  }
+}

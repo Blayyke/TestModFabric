@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "tmf:clay_bucket",
+  "pattern": [
+    "C C",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "tmf:clay_bucket",
+    "count": 1
+  }
+}

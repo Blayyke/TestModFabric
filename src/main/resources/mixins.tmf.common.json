@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "me.xa5.tmf.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinAxeFelling",
+    "MixinWither",
+    "MixinCampfireBlock"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

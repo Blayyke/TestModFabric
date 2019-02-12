@@ -1,0 +1,17 @@
+{
+  "id": "tmf",
+  "name": "TestModFabric",
+  "description": "Test mod for testing things",
+  "version": "${version}",
+  "side": "universal",
+  "initializers": [
+    "me.xa5.tmf.TestModFabric",
+    "me.xa5.tmf.TestModFabricClient"
+  ],
+  "requires": {
+    "fabric": "*"
+  },
+  "mixins": {
+    "common": "mixins.tmf.common.json"
+  }
+}
